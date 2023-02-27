@@ -2,7 +2,10 @@
 layout: single
 title: "first blog posting 입니다!!!!"
 categories: 블로그
-tag: [블로그, 코딩, 지킬, 코드스테이츠]
+tag: [Roblxo, 코딩,Dance]
+toc: true
+toc_sticky: true
+toc_label: 목차
 ---
 
 
