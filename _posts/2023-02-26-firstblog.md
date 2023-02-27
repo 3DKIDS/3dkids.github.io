@@ -8,6 +8,7 @@ title: "first blog posting 입니다!!!!"
 
 지킬 블로그에 대하여 알아보겠습니다.
 
+{{site.url}}
 
 ## 개요
 
