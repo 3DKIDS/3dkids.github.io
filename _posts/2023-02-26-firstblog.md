@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "first blog posting 입니다!!!!"
+categories: 블로그
+tag:[Roblox, 코딩,스메타버스]
 ---
 
 
