@@ -2,7 +2,7 @@
 layout: single
 title: "first blog posting 입니다!!!!"
 categories: 블로그
-tag:[Roblox]
+tag: [블로그, 코딩, 지킬, 코드스테이츠]
 ---
 
 
