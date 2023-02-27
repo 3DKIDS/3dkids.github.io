@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "ko-KR"
 title                    : "LoveTang "
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "한번 사는 인생 Fun하게!!"
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "한국에서 로블록스 크리에이터 & 교육을 하는 인간!!"
 url                      : "https://3dkids.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
